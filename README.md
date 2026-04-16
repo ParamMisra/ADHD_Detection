@@ -12,6 +12,11 @@ A robust Machine Learning application developed to assist in the quantitative as
 *   **Instant Analysis**: Processes standard raw patient CSV data to generate immediate diagnostic reports.
 *   **Clinical Visualization**: Presents confidence intervals and probability metrics via a clean, high-contrast interface designed for clinical environments.
 *   **Automated Validation**: Cross-references predictions against ground truth labels (when available) for continuous performance verification.
+  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/69a61090-d0b8-4553-b07c-dc4d7d8aa885" width="600"/><br/>
+  <em>Interactive Streamlit Application</em>
+</p>
 
 ## Scientific Methodology
 
@@ -71,7 +76,7 @@ The final determination is made by a **Logistic Regression** classifier. This mo
     pip install -r requirements.txt
     ```
 
-## usage
+## Usage
 
 1.  **Initialize the Application:**
     ```bash
